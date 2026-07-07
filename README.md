@@ -135,21 +135,21 @@ Passionate about clean architecture, performance and user experience.
 # 📊 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serkanersozz&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=serkanersozz&theme=github_dark&cache_seconds=60"/>
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serkanersozz&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serkanersozz&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=serkanersozz&theme=github_dark&cache_seconds=60"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=serkanersozz&theme=github_dark&cache_seconds=60"/>
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serkanersozz&theme=github_dark&utcOffset=3"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serkanersozz&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=serkanersozz&theme=github_dark&utcOffset=3&cache_seconds=60"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=serkanersozz&theme=github_dark&cache_seconds=60"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=serkanersozz&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=serkanersozz&theme=github-dark&hide_border=true&cache_seconds=60"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ Passionate about clean architecture, performance and user experience.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanersozz&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanersozz&theme=github-dark&cache_seconds=60"/>
 </p>
 
 ---
