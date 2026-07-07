@@ -30,7 +30,7 @@ Passionate about clean architecture, performance and user experience.
 
 # 🚀 Core Technologies
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -45,7 +45,7 @@ Passionate about clean architecture, performance and user experience.
 # 🛠️ Tech Stack
 
 ## 🧩 Languages
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -57,7 +57,7 @@ Passionate about clean architecture, performance and user experience.
 </p>
 
 ## 🎨 Frontend
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white"/>
@@ -66,20 +66,20 @@ Passionate about clean architecture, performance and user experience.
 </p>
 
 ## ⚙️ Backend
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
 ## 📱 Mobile
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HarmonyOS%20NEXT-000000?style=for-the-badge&logo=huawei&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ## 🗄️ Databases
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -88,7 +88,7 @@ Passionate about clean architecture, performance and user experience.
 </p>
 
 ## ☁️ DevOps & Cloud
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -98,19 +98,19 @@ Passionate about clean architecture, performance and user experience.
 </p>
 
 ## 🤖 AI & Data
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ## 🏠 Smart Home & IoT
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white"/>
 </p>
 
 ## 🔧 Tools
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
@@ -120,7 +120,7 @@ Passionate about clean architecture, performance and user experience.
 
 # ⭐ Interests
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
